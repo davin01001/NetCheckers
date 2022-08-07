@@ -1,10 +1,10 @@
 # NetCheckers
 Test Task for my Interviews - Net Checkers (In process now...)
 
-Output directory id build/bin
+Output directory is build/bin
 
 Not realized yet:
-1. Capture figures more then once
+1. Capture figures more than once
 2. Mandatory move when figure must capture
 3. Count blocked figures to end game
 
