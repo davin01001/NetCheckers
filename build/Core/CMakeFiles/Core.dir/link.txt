@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libCore.a CMakeFiles/Core.dir/Net/NetServer.cpp.o
+/usr/bin/ranlib ../lib/libCore.a

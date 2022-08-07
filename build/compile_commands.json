@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/grape/Projects/Interview/NetCheckers/build/Core",
+  "command": "/usr/bin/clang++   -g -std=gnu++2a -o CMakeFiles/Core.dir/Net/NetServer.cpp.o -c /home/grape/Projects/Interview/NetCheckers/Core/Net/NetServer.cpp",
+  "file": "/home/grape/Projects/Interview/NetCheckers/Core/Net/NetServer.cpp"
+},
+{
+  "directory": "/home/grape/Projects/Interview/NetCheckers/build/Tests",
+  "command": "/usr/bin/clang++   -g -std=gnu++2a -o CMakeFiles/Tests.dir/main.cpp.o -c /home/grape/Projects/Interview/NetCheckers/Tests/main.cpp",
+  "file": "/home/grape/Projects/Interview/NetCheckers/Tests/main.cpp"
+},
+{
+  "directory": "/home/grape/Projects/Interview/NetCheckers/build/Checkers",
+  "command": "/usr/bin/clang++   -g -std=gnu++2a -o CMakeFiles/Checkers.dir/main.cpp.o -c /home/grape/Projects/Interview/NetCheckers/Checkers/main.cpp",
+  "file": "/home/grape/Projects/Interview/NetCheckers/Checkers/main.cpp"
+}
+]

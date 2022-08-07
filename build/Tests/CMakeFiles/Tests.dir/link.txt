@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/Tests.dir/main.cpp.o -o ../bin/Tests  /usr/lib/x86_64-linux-gnu/libgtest.a ../lib/libCore.a -lpthread -lsfml-graphics -lsfml-window -lsfml-system 

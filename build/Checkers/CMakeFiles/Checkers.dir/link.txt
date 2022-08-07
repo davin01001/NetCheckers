@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g CMakeFiles/Checkers.dir/main.cpp.o -o ../bin/Checkers  ../lib/libCore.a -lpthread -lsfml-graphics -lsfml-window -lsfml-system 
